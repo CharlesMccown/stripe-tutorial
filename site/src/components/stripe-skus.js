@@ -6,8 +6,8 @@ const conatinerStyles = {
   display: 'flex',
   flexDirection: 'row',
   flexWrap: 'wrap',
-  justifyContent: 'space-between',
-  padding: '1rem 0 1rem 0',
+  //justifyContent: 'space-between',
+  padding: '1rem 0 1rem 0'  
 }
 
 class Skus extends Component {

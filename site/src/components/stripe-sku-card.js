@@ -6,7 +6,7 @@ const cardStyles = {
   justifyContent: "space-around",
   alignItems: "flex-start",
   padding: "1rem",
-  marginBottom: "1rem",
+  margin: "0 1rem 1rem 1rem",
   boxShadow: "5px 5px 25px 0 rgba(46,61,73,.2)",
   backgroundColor: "#fff",
   borderRadius: "6px",
